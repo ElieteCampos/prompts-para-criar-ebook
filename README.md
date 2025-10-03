@@ -26,6 +26,7 @@ ChatGPT：
 |  título  | Crie um ebook sobre o tema de bolos, o ebook é do nicho de culinária, e o subnicho é bolo caseiros, o título deve ser criativo e curto remetendo ao anime personagem Sanji do One Piece , e tenha uma temática mais simples porém criativo, e liste 6 variações de títulos com subtítulos.                                                        |
 | conteúdo | Faça um ebook com 7 receitas caseiras simples de bolos com coberturas
 |[Regras]| Titulo que é o nome do bolo, Ingredientes,  Modo de preparo e tempo de forno para assar explicando sempre de uma maneira simples e objetiva, Cobertura, dicas com o mesmo linguajar do personagem Sanji do anime one piece,[Prompt negativo} não quero receitas longas somente receitas simples e enxutas|
+|  agradecimentos  | Crie gerar um agradecimento bem engraçado e divertido, no estilo Sanji, tirando um sarro do zoro e elogiando sua amada Nami , agradecendo aos que estao lendo o ebook e dizendo que o ebook foi gerado inteiro por uma inteligência artifical por prompts e foi diagramado pela criadora Eliete Campos          
 
 
 Copilot AI：
