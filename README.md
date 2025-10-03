@@ -3,12 +3,12 @@
 -------
 
 
-# Projeto EBOOK Gerado por I.A.s
+#  Ebook de receitas estilo Sanji OnePiece Gerado por I.A.s
 
 
 
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. 
+Projeto de estudos de prompts. 
 
 ## 💻 Tecnologias utilizadas no projeto
 
